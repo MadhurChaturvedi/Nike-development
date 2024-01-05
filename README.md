@@ -1,52 +1,21 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nike Website Clone</title>
-</head>
-
-<body>
-
-  <h1>Nike Website Clone with Vite, React, Tailwind CSS, and Framer Motion</h1>
-
-  <h2>Project Overview</h2>
-  <p>I crafted a dynamic Nike website clone using Vite and ReactJS, with styling powered by Tailwind CSS. To elevate user experience, I incorporated Framer Motion for seamless animations. This project merges cutting-edge technologies to replicate the aesthetics and functionality of the official Nike website.</p>
-
-  <h2>Technologies Used</h2>
-  <ul>
-    <li>Vite: Lightning-fast development setup.</li>
-    <li>React: Building interactive interfaces.</li>
-    <li>Tailwind CSS: Effortless and responsive styling.</li>
-    <li>Framer Motion: Elevating user engagement with fluid animations.</li>
-  </ul>
-
-  <h2>Getting Started</h2>
-  <ol>
-    <li>Clone the repository.</li>
-    <li>Install dependencies using <code>npm install</code>.</li>
-    <li>Run the development server with <code>npm run dev</code>.</li>
-  </ol>
-
-  <p>Explore the code, customize as needed, and share your feedback or contributions!</p>
-
-</body>
-
-</html> -->
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
+  
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nike Website Clone</title>
   <!-- Add FontAwesome CDN -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
+
 <body>
+<img src="https://github.com/MadhurChaturvedi/Nike-development/assets/93113162/bf7713f1-1f89-4545-9df8-0b9ebb4fd53e"  alt="no-img" /> 
+
+
+
 
   <h1>Nike Website Clone with Vite, React, Tailwind CSS, and Framer Motion</h1>
 
