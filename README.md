@@ -12,7 +12,7 @@
 
 
 <body>
-<img src="https://github.com/MadhurChaturvedi/Nike-development/assets/93113162/bf7713f1-1f89-4545-9df8-0b9ebb4fd53e"  alt="no-img" /> 
+<img width="450px" src="https://github.com/MadhurChaturvedi/Nike-development/assets/93113162/bf7713f1-1f89-4545-9df8-0b9ebb4fd53e"  alt="no-img" /> 
 
 
 
