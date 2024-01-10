@@ -1,5 +1,4 @@
 
-![ezgif com-animated-gif-maker]()
 
 <!DOCTYPE html>
 <html lang="en">
