@@ -7,7 +7,7 @@
  
 </head>
 <body>
-   <img src="https://github.com/MadhurChaturvedi/Nike-development/assets/93113162/e282f0d6-2072-438e-a8d0-4539de5314fe" width="500px" alt="no-img" />
+   <img src="https://github.com/MadhurChaturvedi/Nike-development/assets/93113162/e282f0d6-2072-438e-a8d0-4539de5314fe" width="800px" alt="no-img" />
   <h1>Nike Website</h1>
 
   <p>Welcome to the Nike Website project! This project is built using React, Vite, and Tailwind CSS.</p>
